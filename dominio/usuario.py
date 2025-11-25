@@ -1,0 +1,2 @@
+# Usuario del sistema (operador)
+

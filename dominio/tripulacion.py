@@ -1,2 +1,0 @@
-# Miembro de tripulación
-
